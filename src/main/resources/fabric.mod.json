@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "id": "addon-template",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for the Meteor addons.",
+  "name": "SavenGEAR",
+  "description": "SavenGEAR for da fools!",
   "authors": [
     "seasnail"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/Savangesir/SavenGEAR"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
